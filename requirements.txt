@@ -1,0 +1,5 @@
+spotipy
+requests
+rapidfuzz
+python-dotenv
+typer
